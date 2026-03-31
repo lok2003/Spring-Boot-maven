@@ -53,6 +53,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
+			<version>8.1.0</version>
 		</dependency>
 
 		<dependency>
